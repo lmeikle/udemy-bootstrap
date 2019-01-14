@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60d40aff-f38d-4117-b365-424f11e182a6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/bootstrap_sandbox_starter/3_2_buttons.html" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap_sandbox_starter/3_2_buttons.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap_sandbox_starter/3_3_navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap_sandbox_starter/3_3_navbar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap_sandbox_starter/3_4_list_groups_badges.html" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap_sandbox_starter/3_4_list_groups_badges.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap_sandbox_starter/3_5_forms.html" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap_sandbox_starter/3_5_forms.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap_sandbox_starter/3_6_input_groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap_sandbox_starter/3_6_input_groups.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_sandbox_starter/3_10_media_object.html" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap_sandbox_starter/3_10_media_object.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_sandbox_starter/3_11_jumbotron.html" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap_sandbox_starter/3_11_jumbotron.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_sandbox_starter/3_7_alerts_progress.html" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap_sandbox_starter/3_7_alerts_progress.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_sandbox_starter/3_8_tables_pagination.html" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap_sandbox_starter/3_8_tables_pagination.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_sandbox_starter/3_9_cards.html" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap_sandbox_starter/3_9_cards.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,12 +19,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bootstrap_sandbox_starter/3_6_input_groups.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bootstrap_sandbox_starter/3_10_media_object.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="168" column="42" selection-start-line="168" selection-start-column="42" selection-end-line="168" selection-end-column="42" />
+            <state relative-caret-position="578">
+              <caret line="184" column="39" selection-start-line="184" selection-start-column="39" selection-end-line="184" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bootstrap_sandbox_starter/3_11_jumbotron.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="108" column="21" selection-start-line="108" selection-start-column="21" selection-end-line="108" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -48,21 +58,26 @@
         <option value="$PROJECT_DIR$/bootstrap_sandbox_starter/3_4_list_groups_badges.html" />
         <option value="$PROJECT_DIR$/bootstrap_sandbox_starter/3_5_forms.html" />
         <option value="$PROJECT_DIR$/bootstrap_sandbox_starter/3_6_input_groups.html" />
+        <option value="$PROJECT_DIR$/bootstrap_sandbox_starter/3_7_alerts_progress.html" />
+        <option value="$PROJECT_DIR$/bootstrap_sandbox_starter/3_8_tables_pagination.html" />
+        <option value="$PROJECT_DIR$/bootstrap_sandbox_starter/3_9_cards.html" />
+        <option value="$PROJECT_DIR$/bootstrap_sandbox_starter/3_10_media_object.html" />
+        <option value="$PROJECT_DIR$/bootstrap_sandbox_starter/3_11_jumbotron.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="736" />
-    <option name="height" value="735" />
+    <option name="x" value="-8" />
+    <option name="width" value="1740" />
+    <option name="height" value="1398" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -79,6 +94,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -100,15 +116,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.3_2_buttons.html">
-    <configuration name="2_2_basic_typography.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/udemy-bootstrap/bootstrap_sandbox_starter/2_2_basic_typography.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.3_9_cards.html">
+    <configuration name="2_2_basic_typography.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/udemy-bootstrap/bootstrap_sandbox_starter/2_2_basic_typography.html">
       <method v="2" />
     </configuration>
-    <configuration name="3_2_buttons.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/udemy-bootstrap/bootstrap_sandbox_starter/3_2_buttons.html" useBuiltInWebServerPort="true">
+    <configuration name="3_2_buttons.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/udemy-bootstrap/bootstrap_sandbox_starter/3_2_buttons.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="3_7_alerts_progress.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/udemy-bootstrap/bootstrap_sandbox_starter/3_7_alerts_progress.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="3_9_cards.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/udemy-bootstrap/bootstrap_sandbox_starter/3_9_cards.html">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.3_9_cards.html" />
+        <item itemvalue="JavaScript Debug.3_7_alerts_progress.html" />
         <item itemvalue="JavaScript Debug.3_2_buttons.html" />
         <item itemvalue="JavaScript Debug.2_2_basic_typography.html" />
       </list>
@@ -125,30 +149,31 @@
       <option name="presentableId" value="Default" />
       <updated>1547288753843</updated>
       <workItem from="1547288755051" duration="13946000" />
+      <workItem from="1547470316916" duration="7230000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13946000" />
+    <option name="totallyTimeSpent" value="21176000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="736" height="735" extended-state="0" />
+    <frame x="-6" y="0" width="1392" height="1118" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12320917" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14391144" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.34715027" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34994808" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -240,8 +265,66 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap_sandbox_starter/3_6_input_groups.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="1782">
           <caret line="168" column="42" selection-start-line="168" selection-start-column="42" selection-end-line="168" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap_sandbox_starter/3_7_alerts_progress.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="178" column="28" selection-start-line="178" selection-start-column="28" selection-end-line="178" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#11;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#13;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#14;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#14;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#15;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#16;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#17;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#17;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#17;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap_sandbox_starter/3_8_tables_pagination.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="555" column="28" selection-start-line="555" selection-start-column="28" selection-end-line="555" selection-end-column="28" />
+          <folding>
+            <element signature="e#19185#19192#1" expanded="true" />
+            <element signature="e#19796#19803#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap_sandbox_starter/3_9_cards.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="375" column="48" selection-start-line="375" selection-start-column="48" selection-end-line="375" selection-end-column="48" />
+          <folding>
+            <element signature="e#5482#5502#0" expanded="true" />
+            <element signature="e#5965#5985#0" expanded="true" />
+            <element signature="e#6482#6502#0" expanded="true" />
+            <element signature="e#7000#7020#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap_sandbox_starter/3_10_media_object.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="184" column="39" selection-start-line="184" selection-start-column="39" selection-end-line="184" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap_sandbox_starter/3_11_jumbotron.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="108" column="21" selection-start-line="108" selection-start-column="21" selection-end-line="108" selection-end-column="21" />
         </state>
       </provider>
     </entry>
