@@ -2,101 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60d40aff-f38d-4117-b365-424f11e182a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/img/book.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/img/mlogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/img/mountains.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/img/person1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/img/person2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/img/person3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/img/person4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_alert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_badge.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_breadcrumb.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_button-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_card.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_carousel.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_close.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_code.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_custom-forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_dropdown.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_functions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_images.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_input-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_jumbotron.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_media.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_modal.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_nav.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_popover.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_print.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_progress.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_reboot.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_root.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_tables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_tooltip.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_transitions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_type.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_utilities.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/bootstrap-grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/bootstrap-reboot.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/bootstrap.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/mixins/_alert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/mixins/_background-variant.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/mixins/_badge.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/mixins/_border-radius.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/mixins/_box-shadow.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/mixins/_breakpoints.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/mixins/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/mixins/_caret.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/mixins/_clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/mixins/_float.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/mixins/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/mixins/_gradients.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/mixins/_grid-framework.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/mixins/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/mixins/_hover.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/mixins/_image.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/mixins/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/mixins/_lists.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/mixins/_nav-divider.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/mixins/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/mixins/_reset-text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/mixins/_resize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/mixins/_screen-reader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/mixins/_size.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/mixins/_table-row.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/mixins/_text-emphasis.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/mixins/_text-hide.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/mixins/_text-truncate.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/mixins/_transition.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/mixins/_visibility.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/utilities/_align.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/utilities/_background.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/utilities/_borders.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/utilities/_clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/utilities/_display.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/utilities/_embed.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/utilities/_flex.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/utilities/_float.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/utilities/_position.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/utilities/_screenreaders.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/utilities/_shadows.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/utilities/_sizing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/utilities/_spacing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/utilities/_text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxebook/scss/utilities/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glozzom/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glozzom/img/image1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glozzom/img/image2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glozzom/img/image3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glozzom/img/laptop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glozzom/img/lights.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glozzom/img/media.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glozzom/img/person1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glozzom/img/person2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glozzom/img/person3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glozzom/img/person4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glozzom/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -110,41 +27,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mizuxebook/index.html">
+      <file pinned="true" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/glozzom/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+            <state relative-caret-position="607">
+              <caret line="231" column="10" lean-forward="true" selection-start-line="231" selection-start-column="10" selection-end-line="231" selection-end-column="10" />
               <folding>
-                <element signature="e#14201#14207#0" expanded="true" />
+                <element signature="e#6488#6495#1" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/looplab/index.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/glozzom/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mizuxebook/scss/style.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
-              <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="true" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mizuxebook/scss/_variables.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+            <state relative-caret-position="18">
+              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -186,13 +85,16 @@
         <option value="$PROJECT_DIR$/mizuxebook/scss/_variables.scss" />
         <option value="$PROJECT_DIR$/mizuxebook/scss/style.scss" />
         <option value="$PROJECT_DIR$/mizuxebook/index.html" />
+        <option value="$PROJECT_DIR$/mizuxebook/css/style.css" />
+        <option value="$PROJECT_DIR$/glozzom/index.html" />
+        <option value="$PROJECT_DIR$/glozzom/css/style.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-9" />
-    <option name="width" value="1308" />
-    <option name="height" value="1399" />
+    <option name="width" value="1004" />
+    <option name="height" value="1102" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -212,7 +114,18 @@
             <path>
               <item name="udemy-bootstrap" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemy-bootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="looplab" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap_sandbox_starter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="udemy-bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemy-bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="glozzom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="udemy-bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemy-bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="glozzom" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="udemy-bootstrap" type="b2602c69:ProjectViewProjectNode" />
@@ -234,8 +147,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Home\udemy-bootstrap\mizuxebook\img" />
+      <recent name="C:\Home\udemy-bootstrap\glozzom\img" />
       <recent name="C:\Home\udemy-bootstrap" />
+      <recent name="C:\Home\udemy-bootstrap\mizuxebook\img" />
       <recent name="C:\Home\github\udemy-bootstrap\looplab\img" />
       <recent name="C:\Home\github\udemy-bootstrap" />
     </key>
@@ -252,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
     <configuration name="5_2_carousel.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/udemy-bootstrap/bootstrap_sandbox_starter/5_2_carousel.html">
       <method v="2" />
     </configuration>
@@ -265,16 +179,16 @@
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/udemy-bootstrap/mizuxebook/index.html">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/udemy-bootstrap/looplab/index.html">
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/udemy-bootstrap/glozzom/index.html">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.5_5_popovers.html" />
         <item itemvalue="JavaScript Debug.5_3_collapse.html" />
         <item itemvalue="JavaScript Debug.5_2_carousel.html" />
-        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -290,7 +204,8 @@
       <updated>1547288753843</updated>
       <workItem from="1547288755051" duration="14545000" />
       <workItem from="1547978866734" duration="9663000" />
-      <workItem from="1548142206404" duration="5506000" />
+      <workItem from="1548142206404" duration="5741000" />
+      <workItem from="1548239159821" duration="6216000" />
     </task>
     <task id="LOCAL-00001" summary="added looplab theme">
       <created>1547987340927</created>
@@ -313,28 +228,36 @@
       <option name="project" value="LOCAL" />
       <updated>1548067171350</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="finished mizuxebook">
+      <created>1548147881535</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1548147881535</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31306000" />
+    <option name="totallyTimeSpent" value="37757000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1046" height="1119" extended-state="0" />
+    <frame x="-9" y="0" width="1004" height="1102" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24281467" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.252588" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.34854773" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34778014" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32883817" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32875264" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -346,10 +269,13 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="added looplab theme" />
     <MESSAGE value="finished carousel" />
     <MESSAGE value="finished widgets" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished widgets" />
+    <MESSAGE value="finished mizuxebook" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished mizuxebook" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/bootstrap_sandbox_starter/2_2_basic_typography.html">
@@ -452,13 +378,6 @@
     <entry file="file://$PROJECT_DIR$/project_images/looplab/share-section1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap_sandbox_starter/5_2_carousel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="213" column="7" selection-start-line="213" selection-start-column="7" selection-end-line="213" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/looplab/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="401">
@@ -508,26 +427,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap_sandbox_starter/5_6_modals.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="827">
-          <caret line="145" selection-start-line="145" selection-end-line="145" />
-          <folding>
-            <element signature="e#4768#4775#0" expanded="true" />
-            <element signature="e#5704#5711#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap_sandbox_starter/5_7_scrollspy.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="395">
           <caret line="235" column="7" selection-start-line="235" selection-start-column="7" selection-end-line="235" selection-end-column="7" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mizuxebook/css/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -542,34 +447,72 @@
     <entry file="file://$PROJECT_DIR$/project_images/mizuxe/book.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/mizuxebook/scss/_variables.scss">
+    <entry file="file://$PROJECT_DIR$/looplab/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        <state relative-caret-position="306">
+          <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="58" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mizuxebook/scss/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
+        <state relative-caret-position="882">
           <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/looplab/index.html">
+    <entry file="file://$PROJECT_DIR$/mizuxebook/scss/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="58" />
+        <state relative-caret-position="720">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_images/glozzom/image1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mizuxebook/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap_sandbox_starter/5_2_carousel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="200" column="4" selection-start-line="200" selection-start-column="4" selection-end-line="205" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap_sandbox_starter/5_6_modals.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1367">
+          <caret line="145" selection-start-line="145" selection-end-line="145" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mizuxebook/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        <state relative-caret-position="383">
+          <caret line="349" column="2" selection-start-line="349" selection-start-column="2" selection-end-line="359" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/glozzom/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="231" column="10" lean-forward="true" selection-start-line="231" selection-start-column="10" selection-end-line="231" selection-end-column="10" />
           <folding>
-            <element signature="e#14201#14207#0" expanded="true" />
+            <element signature="e#6488#6495#1" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/glozzom/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
         </state>
       </provider>
     </entry>
